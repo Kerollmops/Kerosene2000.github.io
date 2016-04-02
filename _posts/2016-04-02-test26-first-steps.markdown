@@ -10,3 +10,7 @@ let difficulty = 10;
 
 Road::with_difficulty(difficulty);
 {% endhighlight %}
+
+And here comes... an Images:
+
+![Nasa picture](https://pbs.twimg.com/media/CfD4p5aUMAA_Y3w.jpg)
