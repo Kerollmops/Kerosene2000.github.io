@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Kerosene2000.github.io
+title: test26
+tagline: A genetic race game
+description: My awesome new site
+paginate: 5
