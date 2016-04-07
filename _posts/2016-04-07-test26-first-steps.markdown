@@ -2,6 +2,8 @@
 published: true
 title: Welcome to the Test26 devlog
 layout: post
+tags: [introduction, car, cars, rays, ray]
+categories: [introduction, welcome]
 ---
 Genetic algorithms and neural networks, that's what leads us to be interested on the production of a race game.
 But not a classic race game, it's is controlled by artificial intelligences.
