@@ -15,7 +15,5 @@ There is three parts in this project:
 2. The Graphic - *display the buffered race at controlled speed for a best debug.*
 3. The Genetic Algorithm - *answer the VM when asking movement for each car.*
 
-Each cars have multiple rays to detect walls, this is the VM which returns hit distances for each ray at each tick of [nphysics](https://github.com/sebcrozet/nphysics).
-
-### **Neuroevolution - Car learns to drive**
+### **Neuroevolution - Car learns to drive** - *The significant source of inspiration*
 [![Neuroevolution - Car learns to drive](http://img.youtube.com/vi/5lJuEW-5vr8/0.jpg)](https://youtu.be/5lJuEW-5vr8? "Neuroevolution - Car learns to drive")
